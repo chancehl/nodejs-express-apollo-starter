@@ -4,8 +4,7 @@
   "description": "todo",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.ts"
   },
   "author": "Chance Linz <chlinz@outlook.com>",
   "license": "ISC",
